@@ -1,0 +1,79 @@
+[
+  {
+    "source_url": "https://tradingeconomics.com/commodities",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 48.4,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "07 SSE Commodity Index Index Points 8349.57 0.83 0.01% -1.63% -4.73% 6.00% -1.88% Nov/07 Containerized Freight Index Points 1550.70 0.00 0.00% 0.00% 39.14% -36.97% -33.49% Nov/07 Nuclear Energy Index USD 48.40 1.57 3.35% -12.40% -5.38% 80.80% 57.40% Nov/07 Solar Energy Index USD 50.69 0.44 0.88% 3.24% 9.84% 50.46% 40.42% Nov/07 EU Carbon Permits EUR 79.47 0.70 -0.87% 1.18% 0.58% 8.86% 16.83% Nov/0",
+    "scraped_date": "2025-11-08 10:06:55"
+  },
+  {
+    "source_url": "https://tradingeconomics.com/commodities",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 50.69,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "1.88% Nov/07 Containerized Freight Index Points 1550.70 0.00 0.00% 0.00% 39.14% -36.97% -33.49% Nov/07 Nuclear Energy Index USD 48.40 1.57 3.35% -12.40% -5.38% 80.80% 57.40% Nov/07 Solar Energy Index USD 50.69 0.44 0.88% 3.24% 9.84% 50.46% 40.42% Nov/07 EU Carbon Permits EUR 79.47 0.70 -0.87% 1.18% 0.58% 8.86% 16.83% Nov/07 Wind Energy Index USD 20.42 0.05 0.25% 0.94% 1.49% 37.97% 28.11% Nov/07 El",
+    "scraped_date": "2025-11-08 10:06:55"
+  },
+  {
+    "source_url": "https://tradingeconomics.com/commodities",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 20.42,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "-12.40% -5.38% 80.80% 57.40% Nov/07 Solar Energy Index USD 50.69 0.44 0.88% 3.24% 9.84% 50.46% 40.42% Nov/07 EU Carbon Permits EUR 79.47 0.70 -0.87% 1.18% 0.58% 8.86% 16.83% Nov/07 Wind Energy Index USD 20.42 0.05 0.25% 0.94% 1.49% 37.97% 28.11% Nov/07 Electricity Price Day % Weekly Monthly YTD YoY Date United Kingdom GBP/MWh 82.20 1.12 -1.34% 2.15% -4.08% -19.77% -5.03% Nov/06 Germany EUR/MWh 10",
+    "scraped_date": "2025-11-08 10:06:55"
+  },
+  {
+    "source_url": "https://tradingeconomics.com/commodity/iron-ore",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 106.57,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "s commodity. Historically, Iron Ore reached an all time high of 219.77 in July of 2021. Iron Ore - data, forecasts, historical chart - was last updated on  November 8 of 2025. Iron Ore is expected to trade at 106.57 USD/MT by the end of this quarter, according to Trading Economics global macro models and analysts expectations. Looking forward, we estimate it to trade at 110.35 in 12 months time. P",
+    "scraped_date": "2025-11-08 10:06:58"
+  },
+  {
+    "source_url": "https://tradingeconomics.com/commodity/iron-ore",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 110.35,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "8 of 2025. Iron Ore is expected to trade at 106.57 USD/MT by the end of this quarter, according to Trading Economics global macro models and analysts expectations. Looking forward, we estimate it to trade at 110.35 in 12 months time. Price Day Month Year Date Gold 4,000.98 23.85 0.60% -1.03% 49.04% Nov/07 Silver 48.50 0.470 0.98% -0.74% 55.00% Nov/07 Copper 4.94 -0.0161 -0.32% -1.41% 15.12% Nov/0",
+    "scraped_date": "2025-11-08 10:06:58"
+  },
+  {
+    "source_url": "https://tradingeconomics.com/commodity/iron-ore/forecast",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 106.57,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "s commodity. Historically, Iron Ore reached an all time high of 219.77 in July of 2021. Iron Ore - data, forecasts, historical chart - was last updated on  November 8 of 2025. Iron Ore is expected to trade at 106.57 USD/MT by the end of this quarter, according to Trading Economics global macro models and analysts expectations. Looking forward, we estimate it to trade at 110.35 in 12 months time. P",
+    "scraped_date": "2025-11-08 10:07:01"
+  },
+  {
+    "source_url": "https://tradingeconomics.com/commodity/iron-ore/forecast",
+    "source_name": "tradingeconomics.com",
+    "forecast_date": null,
+    "outlook_date": null,
+    "price_usd": 110.35,
+    "price_range_min": null,
+    "price_range_max": null,
+    "context": "8 of 2025. Iron Ore is expected to trade at 106.57 USD/MT by the end of this quarter, according to Trading Economics global macro models and analysts expectations. Looking forward, we estimate it to trade at 110.35 in 12 months time. Price Day Month Year Date Gold 4,000.98 23.85 0.60% -1.03% 49.04% Nov/07 Silver 48.50 0.470 0.98% -0.74% 55.00% Nov/07 Copper 4.94 -0.0161 -0.32% -1.41% 15.12% Nov/0",
+    "scraped_date": "2025-11-08 10:07:01"
+  }
+]

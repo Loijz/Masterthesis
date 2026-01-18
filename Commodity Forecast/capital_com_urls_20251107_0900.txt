@@ -1,0 +1,5 @@
+# Capital.com Iron Ore URL Collection
+# Generated: 2025-11-07 09:00:56.342629
+# Total URLs: 0
+# Pages per category: 200
+#

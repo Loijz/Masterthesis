@@ -1,0 +1,20 @@
+# Trading Economics Iron Ore URL Collection
+# Generated: 2025-11-08 10:06:07.464493
+# Total URLs: 16
+#
+https://tradingeconomics.com/api/widgets.aspx?utm_source=side-menu
+https://tradingeconomics.com/commodities
+https://tradingeconomics.com/commodity
+https://tradingeconomics.com/commodity/iron-ore
+https://tradingeconomics.com/commodity/iron-ore-cny
+https://tradingeconomics.com/commodity/iron-ore/forecast
+https://tradingeconomics.com/commodity/steel
+https://tradingeconomics.com/countries
+https://tradingeconomics.com/forecast/commodity
+https://tradingeconomics.com/forecast/crypto
+https://tradingeconomics.com/forecast/currency
+https://tradingeconomics.com/forecast/government-bond-10y
+https://tradingeconomics.com/forecast/stock-market
+https://tradingeconomics.com/forecasts
+https://tradingeconomics.com/indicators
+https://tradingeconomics.com/iron-ore
